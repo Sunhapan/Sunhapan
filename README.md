@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunhapan
 - 👀 I’m interested in: Reversing stuff
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: Python, CPP, V
 - 💞️ I’m looking to collaborate on: None
 - 📫 How to reach me: `@Aoba Suzukaze#0900` on Discord
 
